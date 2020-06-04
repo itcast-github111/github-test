@@ -8,10 +8,12 @@ public class HelloGit {
         System.out.println("Hello git");
         System.out.println("Hello git");
         System.out.println("Hello git");
+        //test github
     }
     public void test(){
         int i = 0;
         i += 10;
 		i++;
+        System.out.println(i);
     }
 }
